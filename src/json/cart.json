@@ -1,0 +1,27 @@
+{
+    "goods_id":1,
+    "gShop":"服饰箱包馆",
+    "gImg" :"https://www.aizhiyi.com/data/upload/shop/store/goods/99/2017/09/26/99_05597542637538504_360.jpg",
+    "gTitle" :" 山谷居民苗绣手包_玲珑 玫红色 湘西苗绣 ",
+    "gDescribe" :"颜色：玫红色, 类别：湘西苗绣",
+    "gPrice" :"425.00",
+    "gNumber":"2"
+}
+{
+    "goods_id":3,
+    "gShop":"文创茶器馆",
+    "gImg" :"https://www.aizhiyi.com/data/upload/shop/store/goods/94/2018/12/28/94_05993299855510161_360.jpg",
+    "gTitle" :"  龙泉青瓷听香茶杯_ 梅子青 堂悦坊  ",
+    "gDescribe" :"颜色：梅子青, 品牌：堂悦坊",
+    "gPrice" :"99.00",
+    "gNumber":"1"
+}
+{
+    "goods_id":2,
+    "gShop":"服饰箱包馆",
+    "gImg" :"https://www.aizhiyi.com/data/upload/shop/store/goods/99/2018/04/11/99_05767610883045221_360.jpg",
+    "gTitle" :"  启纹时尚苗绣包_手提包/斜挎包 ",
+    "gDescribe" :"",
+    "gPrice" :"518.00",
+    "gNumber":"1"
+}

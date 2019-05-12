@@ -1,0 +1,62 @@
+.cate_header{
+    display: block;
+	position:relative;
+    height: 0.88rem;
+    line-height: 0.88rem;
+    color: #fff;
+    font-family: PingFangSC-Regular;
+    font-size: 0.34rem;
+	background: #d33d3c;
+	text-align: center;
+}
+.cate .cate_hearder_img{
+	width: 94%;
+	margin:0.26rem 0.26rem 0 0 ;
+	border-radius: 0.3rem;
+}
+.ant-tabs .ant-tabs-left-content {
+    padding-left: 0px;
+    border-left: 1px solid #e8e8e8;
+}
+.brands-recommend dt {
+    display: block;
+    position: relative;
+    margin-right: 0.52rem;
+    margin-top: 0.4rem;
+}
+.brands-recommend dt a {
+    display: block;
+    font-size: 0.6rem;
+    line-height: 0.6rem;
+    color: #111;
+}
+.brands-recommend dt .cat-two {
+    position: absolute;
+    top: 50%;
+    line-height: 0.6rem;
+    margin-top: -0.3rem;
+    left: 0.36rem;
+    font-size: 0.26rem;
+    color: #333;
+}
+.brands-recommend dt a img {
+    width: 100%;
+}
+.brands-recommend dd {
+    margin: 0 1.6% 0 1.6%;
+    width: 30%;
+	display: inline-block;
+}
+.brands-recommend dd a {
+    display: block;
+    color: #333;
+    width: 1.2rem;
+    margin: 0 auto;
+	text-decoration: none;
+}
+.brands-recommend dd img {
+    width: 100%;
+    margin: 0.3rem 0 0.16rem;
+    border-radius: 10%;
+    border: 1px solid #f5f5f5;
+}

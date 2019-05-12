@@ -1,0 +1,89 @@
+{ 
+    "_id" : ObjectId("5cab303a74689b274cc6823e"), 
+    "uImg" : "https://www.aizhiyi.com/data/upload/shop/avatar/1.png?timestemp=1554122083174)", 
+    "name" : "xiaotian", 
+    "phone" : "18392010291", 
+    "pass" : "a12345", 
+    "sex" : "女", 
+    "shenfen" : "超级管理员", 
+    "time" : "111111"
+}
+{ 
+    "_id" : ObjectId("5cabf828d54db5275cc38944"), 
+    "uImg" : "https://www.aizhiyi.com/data/upload/shop/avatar/1.png?timestemp=1554122083174)", 
+    "name" : "xiaoming", 
+    "phone" : "18392010291", 
+    "pass" : "a12345", 
+    "sex" : "男", 
+    "shenfen" : "", 
+    "time" : ""
+}
+{ 
+    "_id" : ObjectId("5cabf82ad54db5275cc38945"), 
+    "uImg" : "https://www.aizhiyi.com/data/upload/shop/avatar/1.png?timestemp=1554122083174)", 
+    "name" : "xiaojian", 
+    "phone" : "18392010291", 
+    "pass" : "a12345", 
+    "sex" : "男", 
+    "shenfen" : "", 
+    "time" : ""
+}
+{ 
+    "_id" : ObjectId("5cabf82cd54db5275cc38946"), 
+    "uImg" : "https://www.aizhiyi.com/data/upload/shop/avatar/1.png?timestemp=1554122083174)", 
+    "name" : "xiaoqiang", 
+    "phone" : "18392010291", 
+    "pass" : "a12345", 
+    "sex" : "男", 
+    "shenfen" : "", 
+    "time" : ""
+}
+{ 
+    "_id" : ObjectId("5cabf82ed54db5275cc38947"), 
+    "uImg" : "https://www.aizhiyi.com/data/upload/shop/avatar/1.png?timestemp=1554122083174)", 
+    "name" : "xiaohong", 
+    "phone" : "18392010291", 
+    "pass" : "a12345", 
+    "sex" : "男", 
+    "shenfen" : "管理员", 
+    "time" : ""
+}
+{ 
+    "_id" : ObjectId("5cabf830d54db5275cc38948"), 
+    "uImg" : "https://www.aizhiyi.com/data/upload/shop/avatar/1.png?timestemp=1554122083174)", 
+    "name" : "xiaoyu", 
+    "phone" : "18392010291", 
+    "pass" : "a12345", 
+    "sex" : "男", 
+    "shenfen" : "", 
+    "time" : ""
+}
+{ 
+    "_id" : ObjectId("5cabf834d54db5275cc38949"), 
+    "uImg" : "https://www.aizhiyi.com/data/upload/shop/avatar/1.png?timestemp=1554122083174)", 
+    "name" : "xiaohua", 
+    "phone" : "18392010291", 
+    "pass" : "a12345", 
+    "sex" : "男", 
+    "shenfen" : "", 
+    "time" : ""
+}
+{ 
+    "_id" : ObjectId("5cabf838d54db5275cc3894a"), 
+    "uImg" : "https://www.aizhiyi.com/data/upload/shop/avatar/1.png?timestemp=1554122083174)", 
+    "name" : "xiaoqing", 
+    "phone" : "18392010291", 
+    "pass" : "a12345", 
+    "sex" : "男", 
+    "shenfen" : "", 
+    "time" : ""
+}
+{ 
+    "_id" : ObjectId("5cade4513f9cb93334fb7ea5"), 
+    "name" : "xiaobai", 
+    "phone" : "13122345678", 
+    "pass" : "12345", 
+    "sex" : "男", 
+    "shenfen" : "管理员", 
+    "time" : 1554900048645.0
+}

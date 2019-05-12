@@ -1,0 +1,1636 @@
+{ 
+    "_id" : ObjectId("5ca4ad6c1c9118a934aed59c"), 
+    "gc_id" : "1379", 
+    "gc_name" : "茶艺茶道", 
+    "type_id" : "12", 
+    "type_name" : "两个", 
+    "gc_parent_id" : "0", 
+    "commis_rate" : "10", 
+    "gc_sort" : "250", 
+    "gc_virtual" : "0", 
+    "gc_title" : "", 
+    "gc_keywords" : "", 
+    "gc_description" : "", 
+    "show_type" : "1", 
+    "status" : "1", 
+    "image" : "", 
+    "text" : "茶叶/茶具/茶道", 
+    "wap_goodsclass_image_info" : {
+        "image_name" : "_05856708843952032.jpg", 
+        "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05856708843952032.jpg", 
+        "image_url" : ""
+    }, 
+    "cate" : [
+        {
+            "gc_id" : "1761", 
+            "gc_name" : "茶叶", 
+            "wap_goodsclass_image_info" : {
+                "wap_advs1" : {
+                    "image_name" : "_05476679268333353.png", 
+                    "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476679268333353.png", 
+                    "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1761"
+                }
+            }, 
+            "child" : [
+                {
+                    "gc_id" : "1763", 
+                    "gc_name" : "红茶", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05482480260795971.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05482480260795971.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1763"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1764", 
+                    "gc_name" : "绿茶", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05482480467391329.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05482480467391329.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1764"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1765", 
+                    "gc_name" : "乌龙茶", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05482480719155586.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05482480719155586.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1765"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1766", 
+                    "gc_name" : "黑茶", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05482481161389148.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05482481161389148.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1766"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1767", 
+                    "gc_name" : "普洱茶", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05482481307872217.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05482481307872217.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1767"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1768", 
+                    "gc_name" : "白茶", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05482481455326609.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05482481455326609.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1768"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1769", 
+                    "gc_name" : "养生茶", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05505973439679076.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05505973439679076.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1769"
+                        }
+                    }
+                }
+            ]
+        }, 
+        {
+            "gc_id" : "1491", 
+            "gc_name" : "茶具", 
+            "wap_goodsclass_image_info" : {
+                "wap_advs1" : {
+                    "image_name" : "_05476679611124207.png", 
+                    "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476679611124207.png", 
+                    "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1491"
+                }
+            }, 
+            "child" : [
+                {
+                    "gc_id" : "1868", 
+                    "gc_name" : "茶刀/茶针", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05525003645072635.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05525003645072635.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1771", 
+                    "gc_name" : "茶壶", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476730687477444.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476730687477444.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1771"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1626", 
+                    "gc_name" : "茶杯", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476730996298016.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476730996298016.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1626"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1629", 
+                    "gc_name" : "茶叶罐", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476731395464397.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476731395464397.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1629"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1627", 
+                    "gc_name" : "茶海", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476731903561507.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476731903561507.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1627"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1851", 
+                    "gc_name" : "茶托/茶盘", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05500657765332614.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05500657765332614.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1927", 
+                    "gc_name" : "茶道配件", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_06011241053334894.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_06011241053334894.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1928", 
+                    "gc_name" : "茶具套装", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "", 
+                            "image_path" : "", 
+                            "image_url" : ""
+                        }
+                    }
+                }
+            ]
+        }, 
+        {
+            "gc_id" : "1762", 
+            "gc_name" : "茶道", 
+            "wap_goodsclass_image_info" : {
+                "wap_advs1" : {
+                    "image_name" : "_05476680053983230.png", 
+                    "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476680053983230.png", 
+                    "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1762"
+                }
+            }, 
+            "child" : [
+                {
+                    "gc_id" : "1774", 
+                    "gc_name" : "香道", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476732693048148.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476732693048148.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1774"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1849", 
+                    "gc_name" : "茶棚/茶柜", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05492007359116653.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05492007359116653.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1917", 
+                    "gc_name" : "摆件", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05823014888248502.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05823014888248502.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
+// ----------------------------------------------
+{ 
+    "_id" : ObjectId("5ca4ad6c1c9118a934aed59d"), 
+    "gc_id" : "1383", 
+    "gc_name" : "民俗文化", 
+    "type_id" : "12", 
+    "type_name" : "两个", 
+    "gc_parent_id" : "0", 
+    "commis_rate" : "10", 
+    "gc_sort" : "249", 
+    "gc_virtual" : "0", 
+    "gc_title" : "", 
+    "gc_keywords" : "", 
+    "gc_description" : "", 
+    "show_type" : "1", 
+    "status" : "1", 
+    "text" : "匠工/文房/民俗", 
+    "wap_goodsclass_image_info" : {
+        "image_name" : "_05856709301275711.jpg", 
+        "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05856709301275711.jpg", 
+        "image_url" : ""
+    }, 
+    "cate" : [
+        {
+            "gc_id" : "1755", 
+            "gc_name" : "匠工", 
+            "wap_goodsclass_image_info" : {
+                "wap_advs1" : {
+                    "image_name" : "_05476677445229887.png", 
+                    "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476677445229887.png", 
+                    "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1755"
+                }
+            }, 
+            "child" : [
+                {
+                    "gc_id" : "1758", 
+                    "gc_name" : "摆件", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476735995314172.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476735995314172.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1758"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1842", 
+                    "gc_name" : "景泰蓝", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476736388403721.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476736388403721.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1842"
+                        }
+                    }
+                }
+            ]
+        }, 
+        {
+            "gc_id" : "1756", 
+            "gc_name" : "文房", 
+            "wap_goodsclass_image_info" : {
+                "wap_advs1" : {
+                    "image_name" : "_05476677855311821.png", 
+                    "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476677855311821.png", 
+                    "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1756"
+                }
+            }, 
+            "child" : [
+                {
+                    "gc_id" : "1760", 
+                    "gc_name" : "文房四宝", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476736948609788.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476736948609788.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1760"
+                        }
+                    }
+                }
+            ]
+        }, 
+        {
+            "gc_id" : "1754", 
+            "gc_name" : "民俗", 
+            "wap_goodsclass_image_info" : {
+                "wap_advs1" : {
+                    "image_name" : "_05476675990034592.png", 
+                    "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476675990034592.png", 
+                    "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1754"
+                }
+            }, 
+            "child" : [
+                {
+                    "gc_id" : "1871", 
+                    "gc_name" : "旗袍", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05544917565101553.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05544917565101553.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1757", 
+                    "gc_name" : "传统乐器", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476735469726727.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476735469726727.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1757"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
+// ----------------------------------------------
+{ 
+    "_id" : ObjectId("5ca4ad6c1c9118a934aed59e"), 
+    "gc_id" : "1381", 
+    "gc_name" : "珠宝首饰", 
+    "type_id" : "0", 
+    "type_name" : "", 
+    "gc_parent_id" : "0", 
+    "commis_rate" : "10", 
+    "gc_sort" : "252", 
+    "gc_virtual" : "0", 
+    "gc_title" : "", 
+    "gc_keywords" : "", 
+    "gc_description" : "", 
+    "show_type" : "1", 
+    "status" : "1", 
+    "image" : "", 
+    "text" : "类别/材质/工艺", 
+    "wap_goodsclass_image_info" : {
+        "image_name" : "_05856707787010204.jpg", 
+        "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05856707787010204.jpg", 
+        "image_url" : ""
+    }, 
+    "cate" : [
+        {
+            "gc_id" : "1798", 
+            "gc_name" : "类别", 
+            "wap_goodsclass_image_info" : {
+                "wap_advs1" : {
+                    "image_name" : "_05476682893359631.png", 
+                    "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476682893359631.png", 
+                    "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1798"
+                }
+            }, 
+            "child" : [
+                {
+                    "gc_id" : "1801", 
+                    "gc_name" : "项链", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476698785173600.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476698785173600.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1801"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1802", 
+                    "gc_name" : "戒指", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476699283716017.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476699283716017.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1802"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1803", 
+                    "gc_name" : "耳饰", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476699710222590.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476699710222590.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1803"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1804", 
+                    "gc_name" : "手镯", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476700580481439.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476700580481439.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1804"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1805", 
+                    "gc_name" : "手链", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476700917700623.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476700917700623.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1805"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1806", 
+                    "gc_name" : "胸针", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476701243138984.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476701243138984.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1806"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1924", 
+                    "gc_name" : "挂件/把件", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05894573903551063.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05894573903551063.png", 
+                            "image_url" : "https://www.aizhiyi.com/wap/tmpl/product_list.html?gc_id=1924"
+                        }
+                    }
+                }
+            ]
+        }, 
+        {
+            "gc_id" : "1799", 
+            "gc_name" : "材质", 
+            "wap_goodsclass_image_info" : {
+                "wap_advs1" : {
+                    "image_name" : "_05476683322304189.png", 
+                    "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476683322304189.png", 
+                    "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1799"
+                }
+            }, 
+            "child" : [
+                {
+                    "gc_id" : "1807", 
+                    "gc_name" : "合金/镀金", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476702101794055.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476702101794055.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1807"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1808", 
+                    "gc_name" : "银饰", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476733758488778.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476733758488778.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1808"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1809", 
+                    "gc_name" : "黄金", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05551561658665909.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05551561658665909.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1810", 
+                    "gc_name" : "玉石", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05868722384799122.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05868722384799122.png", 
+                            "image_url" : "https://www.aizhiyi.com/wap/tmpl/product_list.html?gc_id=1810"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1925", 
+                    "gc_name" : "木质", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05972640741891541.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05972640741891541.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }
+            ]
+        }, 
+        {
+            "gc_id" : "1800", 
+            "gc_name" : "工艺", 
+            "wap_goodsclass_image_info" : {
+                "wap_advs1" : {
+                    "image_name" : "_05476683895963081.png", 
+                    "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476683895963081.png", 
+                    "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1800"
+                }
+            }, 
+            "child" : [
+                {
+                    "gc_id" : "1814", 
+                    "gc_name" : "镶嵌工艺", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476708115463459.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476708115463459.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1814"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
+// ----------------------------------------------
+{ 
+    "_id" : ObjectId("5ca4ad6c1c9118a934aed59f"), 
+    "gc_id" : "1384", 
+    "gc_name" : "文化创意", 
+    "type_id" : "0", 
+    "type_name" : "", 
+    "gc_parent_id" : "0", 
+    "commis_rate" : "10", 
+    "gc_sort" : "253", 
+    "gc_virtual" : "0", 
+    "gc_title" : "", 
+    "gc_keywords" : "", 
+    "gc_description" : "", 
+    "show_type" : "1", 
+    "status" : "1", 
+    "image" : "", 
+    "text" : "居家/办公/其它", 
+    "wap_goodsclass_image_info" : {
+        "image_name" : "_05856706581818067.jpg", 
+        "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05856706581818067.jpg", 
+        "image_url" : ""
+    }, 
+    "cate" : [
+        {
+            "gc_id" : "1818", 
+            "gc_name" : "居家", 
+            "wap_goodsclass_image_info" : {
+                "wap_advs1" : {
+                    "image_name" : "_05476684668458067.png", 
+                    "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476684668458067.png", 
+                    "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1818"
+                }
+            }, 
+            "child" : [
+                {
+                    "gc_id" : "1846", 
+                    "gc_name" : "服饰", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476698134493975.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476698134493975.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1846"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1847", 
+                    "gc_name" : "家装", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05483571929970448.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05483571929970448.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1847"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1865", 
+                    "gc_name" : "生活", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05519796993845985.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05519796993845985.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1821", 
+                    "gc_name" : "家具", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476693622381357.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476693622381357.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1821"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1822", 
+                    "gc_name" : "餐具", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476694031736448.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476694031736448.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1822"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1824", 
+                    "gc_name" : "照明", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476722986714738.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476722986714738.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1824"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1826", 
+                    "gc_name" : "家纺", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476696199418066.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476696199418066.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1826"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1827", 
+                    "gc_name" : "箱包", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476734558915717.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476734558915717.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1827"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1857", 
+                    "gc_name" : "收纳盒/箱", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05512951949551052.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05512951949551052.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1858", 
+                    "gc_name" : "梳妆用品", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05512952084896862.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05512952084896862.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }
+            ]
+        }, 
+        {
+            "gc_id" : "1819", 
+            "gc_name" : "办公", 
+            "wap_goodsclass_image_info" : {
+                "wap_advs1" : {
+                    "image_name" : "_05476685004113383.png", 
+                    "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476685004113383.png", 
+                    "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1819"
+                }
+            }, 
+            "child" : [
+                {
+                    "gc_id" : "1848", 
+                    "gc_name" : "文具", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05483571251410122.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05483571251410122.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1848"
+                        }
+                    }
+                }
+            ]
+        }, 
+        {
+            "gc_id" : "1820", 
+            "gc_name" : "其它", 
+            "wap_goodsclass_image_info" : {
+                "wap_advs1" : {
+                    "image_name" : "_05476685508045591.png", 
+                    "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476685508045591.png", 
+                    "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1820"
+                }
+            }, 
+            "child" : [
+                {
+                    "gc_id" : "1829", 
+                    "gc_name" : "车饰", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476691329997569.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476691329997569.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1829"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1859", 
+                    "gc_name" : "火机/烟具", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05512952387202255.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05512952387202255.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1860", 
+                    "gc_name" : "手机电脑配件", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05512952812656983.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05512952812656983.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1926", 
+                    "gc_name" : "电子设备", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05973238388865256.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05973238388865256.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
+// ----------------------------------------------
+{ 
+    "_id" : ObjectId("5ca4ad6c1c9118a934aed5a0"), 
+    "gc_id" : "1309", 
+    "gc_name" : "个性定制", 
+    "type_id" : "0", 
+    "type_name" : "", 
+    "gc_parent_id" : "0", 
+    "commis_rate" : "10", 
+    "gc_sort" : "254", 
+    "gc_virtual" : "0", 
+    "gc_title" : "", 
+    "gc_keywords" : "", 
+    "gc_description" : "", 
+    "show_type" : "1", 
+    "status" : "1", 
+    "image" : "", 
+    "text" : "文创/民俗/茶道/服饰", 
+    "wap_goodsclass_image_info" : {
+        "image_name" : "_05856706210789201.jpg", 
+        "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05856706210789201.jpg", 
+        "image_url" : ""
+    }, 
+    "cate" : [
+        {
+            "gc_id" : "1897", 
+            "gc_name" : "文创", 
+            "wap_goodsclass_image_info" : [
+
+            ], 
+            "child" : [
+                {
+                    "gc_id" : "1898", 
+                    "gc_name" : "日用品", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05554344687379862.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05554344687379862.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1899", 
+                    "gc_name" : "办公用品", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05554345279625887.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05554345279625887.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1915", 
+                    "gc_name" : "团购定制", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05798039690091136.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05798039690091136.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }
+            ]
+        }, 
+        {
+            "gc_id" : "1830", 
+            "gc_name" : "民俗", 
+            "wap_goodsclass_image_info" : {
+                "wap_advs1" : {
+                    "image_name" : "_05476685940752762.png", 
+                    "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476685940752762.png", 
+                    "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1830"
+                }
+            }, 
+            "child" : [
+                {
+                    "gc_id" : "1862", 
+                    "gc_name" : "烫印", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05515566246251963.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05515566246251963.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1864", 
+                    "gc_name" : "刀剑", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05519795973703289.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05519795973703289.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1891", 
+                    "gc_name" : "银器", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05554339185636921.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05554339185636921.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1833", 
+                    "gc_name" : "陶器", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476688488450259.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476688488450259.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1833"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1861", 
+                    "gc_name" : "雕刻", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05512953905714330.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05512953905714330.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }
+            ]
+        }, 
+        {
+            "gc_id" : "1831", 
+            "gc_name" : "茶道", 
+            "wap_goodsclass_image_info" : {
+                "wap_advs1" : {
+                    "image_name" : "_05476686323462751.png", 
+                    "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476686323462751.png", 
+                    "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1831"
+                }
+            }, 
+            "child" : [
+                {
+                    "gc_id" : "1893", 
+                    "gc_name" : "茶器", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05554341319382131.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05554341319382131.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1894", 
+                    "gc_name" : "茶道周边", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05554341879839229.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05554341879839229.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1836", 
+                    "gc_name" : "紫砂壶", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476689302275903.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476689302275903.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1836"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1837", 
+                    "gc_name" : "荣昌陶壶", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476689636128367.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476689636128367.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1837"
+                        }
+                    }
+                }
+            ]
+        }, 
+        {
+            "gc_id" : "1832", 
+            "gc_name" : "服饰", 
+            "wap_goodsclass_image_info" : [
+
+            ], 
+            "child" : [
+                {
+                    "gc_id" : "1896", 
+                    "gc_name" : "箱包", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05554343001174672.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05554343001174672.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1839", 
+                    "gc_name" : "首饰", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05551564308719518.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05551564308719518.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
+// ----------------------------------------------
+{ 
+    "_id" : ObjectId("5ca4ad6c1c9118a934aed5a1"), 
+    "gc_id" : "1378", 
+    "gc_name" : "传统工艺", 
+    "type_id" : "0", 
+    "type_name" : "", 
+    "gc_parent_id" : "0", 
+    "commis_rate" : "10", 
+    "gc_sort" : "248", 
+    "gc_virtual" : "0", 
+    "gc_title" : "", 
+    "gc_keywords" : "", 
+    "gc_description" : "", 
+    "show_type" : "1", 
+    "status" : "1", 
+    "image" : "", 
+    "text" : "陶瓷/雕塑/布艺/锻造", 
+    "wap_goodsclass_image_info" : {
+        "image_name" : "_05856724964122215.jpg", 
+        "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05856724964122215.jpg"
+    }, 
+    "cate" : [
+        {
+            "gc_id" : "1744", 
+            "gc_name" : "陶瓷", 
+            "wap_goodsclass_image_info" : {
+                "wap_advs1" : {
+                    "image_name" : "_05476674382428518.png", 
+                    "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476674382428518.png"
+                }
+            }, 
+            "child" : [
+                {
+                    "gc_id" : "1870", 
+                    "gc_name" : "建盏", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05542374566698577.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05542374566698577.png"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1747", 
+                    "gc_name" : "荣昌陶", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476737838640711.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476737838640711.png"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1748", 
+                    "gc_name" : "宜兴紫砂", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476738119932230.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476738119932230.png"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1841", 
+                    "gc_name" : "彩瓷", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476743986811358.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476743986811358.png"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1853", 
+                    "gc_name" : "青瓷", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05501822390388975.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05501822390388975.png"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1854", 
+                    "gc_name" : "铂玉瓷", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05501822601947668.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05501822601947668.png"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1855", 
+                    "gc_name" : "汝窑", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05506122589510679.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05506122589510679.png"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1922", 
+                    "gc_name" : "磁州窑", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05887967358812075.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05887967358812075.png"
+                        }
+                    }
+                }
+            ]
+        }, 
+        {
+            "gc_id" : "1745", 
+            "gc_name" : "雕塑", 
+            "wap_goodsclass_image_info" : {
+                "wap_advs1" : {
+                    "image_name" : "_05544925583570756.png", 
+                    "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05544925583570756.png"
+                }
+            }, 
+            "child" : [
+                {
+                    "gc_id" : "1869", 
+                    "gc_name" : "云雕", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05525009171525357.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05525009171525357.png"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1873", 
+                    "gc_name" : "木雕", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05544920244446270.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05544920244446270.png"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1749", 
+                    "gc_name" : "玉雕", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05868718843660450.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05868718843660450.png"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1750", 
+                    "gc_name" : "浮雕", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476740486986613.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476740486986613.png"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1856", 
+                    "gc_name" : "漆雕", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05512951575362673.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05512951575362673.png"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1908", 
+                    "gc_name" : "皮雕", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05646821322793380.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05646821322793380.png"
+                        }
+                    }
+                }
+            ]
+        }, 
+        {
+            "gc_id" : "1746", 
+            "gc_name" : "布艺", 
+            "wap_goodsclass_image_info" : {
+                "wap_advs1" : {
+                    "image_name" : "_05476675331375912.png", 
+                    "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476675331375912.png"
+                }
+            }, 
+            "child" : [
+                {
+                    "gc_id" : "1751", 
+                    "gc_name" : "刺绣", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476741027554252.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476741027554252.png"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1752", 
+                    "gc_name" : "绸缎", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476741580887326.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476741580887326.png"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1753", 
+                    "gc_name" : "棉质品", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476741862781287.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476741862781287.png"
+                        }
+                    }
+                }
+            ]
+        }, 
+        {
+            "gc_id" : "1866", 
+            "gc_name" : "锻造", 
+            "wap_goodsclass_image_info" : [
+
+            ], 
+            "child" : [
+                {
+                    "gc_id" : "1867", 
+                    "gc_name" : "兵器", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05519804180685428.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05519804180685428.png"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1901", 
+                    "gc_name" : "景泰蓝", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05563002173103982.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05563002173103982.png"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
+// ----------------------------------------------
+{ 
+    "_id" : ObjectId("5ca4ad6c1c9118a934aed5a2"), 
+    "gc_id" : "1382", 
+    "gc_name" : "特产美食", 
+    "type_id" : "0", 
+    "type_name" : "", 
+    "gc_parent_id" : "0", 
+    "commis_rate" : "10", 
+    "gc_sort" : "251", 
+    "gc_virtual" : "0", 
+    "gc_title" : "", 
+    "gc_keywords" : "", 
+    "gc_description" : "", 
+    "show_type" : "1", 
+    "status" : "1", 
+    "image" : "", 
+    "text" : "粮油/美食/滋补/地方/酒水", 
+    "wap_goodsclass_image_info" : {
+        "image_name" : "_05856708204897367.jpg", 
+        "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05856708204897367.jpg", 
+        "image_url" : ""
+    }, 
+    "cate" : [
+        {
+            "gc_id" : "1775", 
+            "gc_name" : "粮油", 
+            "wap_goodsclass_image_info" : {
+                "wap_advs1" : {
+                    "image_name" : "_05476680836518089.png", 
+                    "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476680836518089.png", 
+                    "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1775"
+                }
+            }, 
+            "child" : [
+                {
+                    "gc_id" : "1780", 
+                    "gc_name" : "米面", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476712201715452.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476712201715452.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1780"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1781", 
+                    "gc_name" : "杂粮", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476712568469459.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476712568469459.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1781"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1782", 
+                    "gc_name" : "南北干货", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476712882911542.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476712882911542.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1782"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1784", 
+                    "gc_name" : "调味品", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476713738416892.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476713738416892.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1784"
+                        }
+                    }
+                }
+            ]
+        }, 
+        {
+            "gc_id" : "1776", 
+            "gc_name" : "美食", 
+            "wap_goodsclass_image_info" : {
+                "wap_advs1" : {
+                    "image_name" : "_05476681111196293.png", 
+                    "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476681111196293.png", 
+                    "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1776"
+                }
+            }, 
+            "child" : [
+                {
+                    "gc_id" : "1845", 
+                    "gc_name" : "熟食", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476725270948634.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476725270948634.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1845"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1785", 
+                    "gc_name" : "坚果炒货", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476715735891098.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476715735891098.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1785"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1786", 
+                    "gc_name" : "肉脯肉干", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476716187020925.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476716187020925.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1786"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1787", 
+                    "gc_name" : "糕点", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476716646405111.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476716646405111.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1787"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1789", 
+                    "gc_name" : "蜜饯果干", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476717609753637.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476717609753637.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1789"
+                        }
+                    }
+                }
+            ]
+        }, 
+        {
+            "gc_id" : "1777", 
+            "gc_name" : "滋补", 
+            "wap_goodsclass_image_info" : {
+                "wap_advs1" : {
+                    "image_name" : "_05476681626115074.png", 
+                    "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476681626115074.png", 
+                    "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1777"
+                }
+            }, 
+            "child" : [
+                {
+                    "gc_id" : "1921", 
+                    "gc_name" : "人参", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05868721885439845.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05868721885439845.png", 
+                            "image_url" : "https://www.aizhiyi.com/wap/tmpl/product_list.html?gc_id=1921"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1790", 
+                    "gc_name" : "枸杞", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476717971471408.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476717971471408.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1790"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1791", 
+                    "gc_name" : "蜂蜜", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476718316125000.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476718316125000.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1791"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1909", 
+                    "gc_name" : "冲调品", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05660642744251245.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05660642744251245.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1916", 
+                    "gc_name" : "石斛", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05804962471018753.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05804962471018753.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1919", 
+                    "gc_name" : "饮品", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05823012699096227.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05823012699096227.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }
+            ]
+        }, 
+        {
+            "gc_id" : "1778", 
+            "gc_name" : "地方", 
+            "wap_goodsclass_image_info" : {
+                "wap_advs1" : {
+                    "image_name" : "_05476682049919354.png", 
+                    "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476682049919354.png", 
+                    "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1778"
+                }
+            }, 
+            "child" : [
+                {
+                    "gc_id" : "1792", 
+                    "gc_name" : "四川特产", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476718836766608.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476718836766608.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1792"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1793", 
+                    "gc_name" : "长白山特产", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476719240078767.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476719240078767.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1793"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1794", 
+                    "gc_name" : "江西特产", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476719541966867.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476719541966867.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1794"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1913", 
+                    "gc_name" : "福建特产", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05778118849849023.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05778118849849023.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1914", 
+                    "gc_name" : "东北特产", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05778119108435972.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05778119108435972.png", 
+                            "image_url" : ""
+                        }
+                    }
+                }
+            ]
+        }, 
+        {
+            "gc_id" : "1779", 
+            "gc_name" : "酒水", 
+            "wap_goodsclass_image_info" : {
+                "wap_advs1" : {
+                    "image_name" : "_05476682380893862.png", 
+                    "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476682380893862.png", 
+                    "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1779"
+                }
+            }, 
+            "child" : [
+                {
+                    "gc_id" : "1795", 
+                    "gc_name" : "养生酒", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476720195430909.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476720195430909.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1795"
+                        }
+                    }
+                }, 
+                {
+                    "gc_id" : "1796", 
+                    "gc_name" : "白酒", 
+                    "wap_goodsclass_image_info" : {
+                        "wap_advs1" : {
+                            "image_name" : "_05476720536360678.png", 
+                            "image_path" : "https://www.aizhiyi.com/data/upload/shop/goods_class/_05476720536360678.png", 
+                            "image_url" : "http://www.aizhiyi.cc/wap/tmpl/product_list.html?gc_id=1796"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+/* 遮盖 */
+.cover {
+  overflow: hidden;
+  position: fixed;
+  top: 0.88rem;
+  left: 0;
+  right: 0;
+  bottom: 0.96rem;
+  z-index: 999999999999999;
+  background-color: #f5f5f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cover img {
+  width: 20%;
+}

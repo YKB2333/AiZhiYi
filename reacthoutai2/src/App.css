@@ -1,0 +1,54 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+html{
+  font-size: 50px;
+}
+ul{
+  list-style: none;
+}
+.head{
+  position: absolute;
+  width: 100%;
+  height: 12.38rem;
+  overflow: auto;
+}
+.footer-nav {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.footer-nav {
+  width: 100%;
+  background: #fff;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: .2rem 0rem 0;
+  border-top: 1px solid #e5e5e5;
+  border-top: 1px solid rgba(0,0,0,0.08);
+  z-index: 999;
+}
+.footer-nav ul{
+  display: flex;
+}
+.footer-nav ul li {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  text-align: center;
+}
+.footer-nav ul i {
+  width: 21px;
+  height: 21px;
+  margin: 0 auto;
+  background-size: 100% 100%;
+  position: relative;
+}
+.footer-nav ul p {
+  font-size: 12px;
+}
